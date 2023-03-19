@@ -25,7 +25,7 @@ Round 1:
   Health = Start Health
  Round 2-9:
   Health = Start Health + Health Increase * (round - 1)
- Round 10+:
+ Round 10:
   Health = (Start Health + Health Increase * (round - 1)) * Health Multiplier ^(round - 10)
   
   If you have any questions or trouble about this tool specifically, you can add me on Discord @ VeryInky#0001
