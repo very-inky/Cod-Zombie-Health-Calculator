@@ -52,8 +52,8 @@ def calculate_zombie_health(round_number, start_health, health_increase, health_
     elif round_number < 10:
         return start_health + health_increase * (round_number - 1)
     else:
-        health = start_health + health_increase * (10 - 1)
-        return int(health * (health_multiplier ** (round_number - 10)))
+        health = start_health + health_increase * 8
+        return int(health * (health_multiplier ** (round_number - 9)) - 10)
 
 def main():
     print_intro()
