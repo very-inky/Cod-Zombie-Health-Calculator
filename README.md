@@ -1,5 +1,5 @@
 # Cod-Zombie-Health-Calculator
-This program is written in Python. To run it you will need Python installed on your computer, which can be ontained here: https://www.python.org/
+This program is written in Python. To run it you will need Python installed on your computer, which can be obtained here: https://www.python.org/
 Not sure if you have python? You can search your computer for it, or in your terminal or command prompt you can type "py" or "python" as a command. If it's installed it will show you what version is installed.
 
 Simply run the program and follow the prompts.
